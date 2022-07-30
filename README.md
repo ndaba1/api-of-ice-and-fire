@@ -1,24 +1,8 @@
-# README
+# An API for serving data relating to the GRRM Series: A Song of Ice and Fire
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The API can be queried to get information about:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Characters: e.g. `Jon snow`, `Rhaegara Targaryen`
+- Locations: e.g. `Westeros`, `Pyke`
+- Houses: e.g. `Stark`, `Lannister`
+- Books: e.g. `Game of thrones`, `Dance of dragons`
